@@ -74,6 +74,3 @@ A web-based system for classifying acute lymphoblastic leukemia (ALL) subtypes f
 3. View classification results
 4. Access history and generate reports
 
-## License
-
-This project is licensed under the MIT License.
